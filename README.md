@@ -23,7 +23,7 @@
 * **[khdiamond-stremio-addon](https://github.com/iamsherman1234/khdiamond-stremio-addon)** — Multi-user KhDiamond Stremio addon with stream fallback, multi-CDN routing, and MediaFlow proxy integration.
 * **[showbox-febbox-addon](https://github.com/iamsherman1234/showbox-febbox-addon)** — ShowBox & FebBox stream resolution addon for Stremio.
 * **[dtv-cambodia-addon](https://github.com/iamsherman1234/dtv-cambodia-addon)** — Live TV & channel streaming addon for DTV Cambodia.
-* **[stremio-moviebox](https://github.com/iamsherman1234/stremio-moviebox)** — MovieBox provider backend for Stremio.
+* **[stremio-moviebox](https://github.com/iamsherman1234/stremio-moviebox)** — MovieBox provider backend for Stremio (forked from [`mesamirh/stremio-moviebox`](https://github.com/mesamirh/stremio-moviebox)).
 
 ---
 
