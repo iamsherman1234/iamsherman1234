@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm LayAn (@iamsherman1234)
 
-### 🚀 Developer & Self-Hosting Enthusiast
+### 🚀 Self-Hosting Enthusiast
 
 *Building Stremio Addons, Media Streaming Proxies, and Cloud Automation Tools*
 
