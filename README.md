@@ -10,20 +10,25 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/iamsherman1234?style=for-the-badge&color=blue)](https://github.com/iamsherman1234)
 [![GitHub Stars](https://img.shields.io/github/stars/iamsherman1234?style=for-the-badge&color=gold)](https://github.com/iamsherman1234)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-21-brightgreen?style=for-the-badge)](https://github.com/iamsherman1234?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-22-brightgreen?style=for-the-badge)](https://github.com/iamsherman1234?tab=repositories)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Public Projects
 
 ### 🎬 Stremio Addons & Streaming Infrastructure
 * **[nuvio-eclipsia-addon](https://github.com/iamsherman1234/nuvio-eclipsia-addon)** — Self-hosted Stremio Addon server powered by 16 Eclipsia Nuvio scraper plugins, with IPv4-first DNS optimization & caching.
 * **[khdiamond-stremio-addon](https://github.com/iamsherman1234/khdiamond-stremio-addon)** — Multi-user KhDiamond Stremio addon with stream fallback, multi-CDN routing, and MediaFlow proxy integration.
-* **[stremio-khmerdub-addon](https://github.com/iamsherman1234/stremio-khmerdub-addon)** — Stremio addon delivering stream resolution for Khmer dub titles.
-* **[info-stremio-addon](https://github.com/iamsherman1234/info-stremio-addon)** — Stremio metadata enrichment & information addon.
+* **[showbox-febbox-addon](https://github.com/iamsherman1234/showbox-febbox-addon)** — ShowBox & FebBox stream resolution addon for Stremio.
+* **[dtv-cambodia-addon](https://github.com/iamsherman1234/dtv-cambodia-addon)** — Live TV & channel streaming addon for DTV Cambodia.
+* **[stremio-moviebox](https://github.com/iamsherman1234/stremio-moviebox)** — MovieBox provider backend for Stremio.
 * **[NuvioStreamsAddon](https://github.com/iamsherman1234/NuvioStreamsAddon)** — HTTP Streaming provider integration for Nuvio.
+* **[yastream](https://github.com/iamsherman1234/yastream)** — Stream Asian drama & series for Stremio.
+* **[infobase-addon](https://github.com/iamsherman1234/infobase-addon)** — Stremio metadata enrichment & info addon.
+* **[YTS-RD](https://github.com/iamsherman1234/YTS-RD)** — Automatically fetch YTS movies to Real-Debrid.
+* **[iptvnator](https://github.com/iamsherman1234/iptvnator)** — Cross-platform IPTV player.
 
 ---
 
