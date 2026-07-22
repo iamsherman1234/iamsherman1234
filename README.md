@@ -24,11 +24,6 @@
 * **[showbox-febbox-addon](https://github.com/iamsherman1234/showbox-febbox-addon)** — ShowBox & FebBox stream resolution addon for Stremio.
 * **[dtv-cambodia-addon](https://github.com/iamsherman1234/dtv-cambodia-addon)** — Live TV & channel streaming addon for DTV Cambodia.
 * **[stremio-moviebox](https://github.com/iamsherman1234/stremio-moviebox)** — MovieBox provider backend for Stremio.
-* **[NuvioStreamsAddon](https://github.com/iamsherman1234/NuvioStreamsAddon)** — HTTP Streaming provider integration for Nuvio.
-* **[yastream](https://github.com/iamsherman1234/yastream)** — Stream Asian drama & series for Stremio.
-* **[infobase-addon](https://github.com/iamsherman1234/infobase-addon)** — Stremio metadata enrichment & info addon.
-* **[YTS-RD](https://github.com/iamsherman1234/YTS-RD)** — Automatically fetch YTS movies to Real-Debrid.
-* **[iptvnator](https://github.com/iamsherman1234/iptvnator)** — Cross-platform IPTV player.
 
 ---
 
